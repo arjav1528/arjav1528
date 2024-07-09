@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arjav1528@gmail.com**
 
-- 📄 Know about my experiences [Currently Working as a Junior Application Developer at Developer's Society BITS Goa](Currently Working as a Junior Application Developer at Developer's Society BITS Goa)
+- 📄 Know about my experiences [Currently Working as a Junior Application Developer at Developer's Society BITS Goa]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
