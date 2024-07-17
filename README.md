@@ -1,27 +1,21 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Arjav Patel</h1>
-<h3 align="center">Currently Persuing B.E. in Electronics and Instrumentation at BITS Goa</h3>
+<h3 align="center">A Passionate Android Developer From India || Sophomore at BITS Goa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjav1528&label=Profile%20views&color=0e75b6&style=flat" alt="arjav1528" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjav1528" alt="arjav1528" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Android Development using Flutter**
-
 - 📫 How to reach me **arjav1528@gmail.com**
-
-- 📄 Know about my experiences [Currently Working as a Junior Application Developer at Developer's Society BITS Goa]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arjav1528" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjav1528" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25455679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25455679" height="30" width="40" /></a>
 <a href="https://instagram.com/arjav__27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjav__27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arjav1528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arjav1528" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjav1528" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arjav____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arjav____" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjav1528" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arjav1528__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arjav1528__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arjavv5wb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjavv5wb" height="30" width="40" /></a>
 </p>
 
@@ -33,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjav1528&show_icons=true&locale=en" alt="arjav1528" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjav1528&" alt="arjav1528" /></p>
-
