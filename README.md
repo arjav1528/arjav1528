@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjav1528" alt="arjav1528" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development with HTML, CSS3**
+- 🌱 I’m currently learning **Android Development with Flutter**
 
 - 📫 How to reach me **arjav1528@gmail.com**
 
