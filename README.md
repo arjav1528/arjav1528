@@ -1,4 +1,4 @@
-![MasterHead](https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif)
+![MasterHead](https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif)
 <h1 align="center">Hey Devs👨🏻‍💻👨🏻‍💻👨🏻‍💻, I'm Arjav Patel</h1>
 <h3 align="center">Sophomore at BITS Goa || Senior Android Developer at DevSoc BITS Goa ||</h3>
 
