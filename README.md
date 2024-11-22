@@ -19,13 +19,7 @@
 <a href="https://github.com/arjav1528" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/stories/arjav__27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:arjav1528@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/thearjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="thearjav1528" height="30" width="40" /></a> -->
 
-<a href="https://www.linkedin.com/in/arjav1528-singh-a4499b293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="arjav1528-a4499b293" height="30" width="40" /></a><!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/https://stackoverflow.com/users/19948068/m1k3-0xm0l" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/https://stackoverflow.com/users/19948068/m1k3-0xm0l" height="30" width="40" /></a> --><a href="https://instagram.com/om.priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="thearjav1528" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@arjav1528" height="30" width="40" /></a><a href="https://dev.to/arjav1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="arjav1528" height="30" width="40" /></a> -->
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
