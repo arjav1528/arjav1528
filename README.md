@@ -31,7 +31,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjav1528&langs_count=8&theme=radical" alt=arjav1528 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=arjav1528&show_icons=true&locale=en&theme=radical" alt="arjav1528" /></p>
+[![About Me](https://awesome-github-stats.azurewebsites.net/user-stats/arjav1528?cardType=level-alternate&theme=synthwave&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjav1528&theme=radical" alt="arjav1528" /></p>
 
