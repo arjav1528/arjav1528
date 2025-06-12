@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Yo+Wassup!!;Arjav+Patel+here!!;I'm+a+Passionate+Coder;" />
 </h1>
-<h3 align="center">Sophomore at BITS Pilani Goa || App Development Head at DevSoc BITS Goa </h3>
+<h3 align="center">Sophomore at BITS Pilani Goa ||| App Development Head at DevSoc BITS Goa </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjav1528&label=Profile%20views&color=0e75b6&style=flat" alt="arjav1528" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjav1528&theme=dark_lover" alt="arjav1528" /></a> </p>
