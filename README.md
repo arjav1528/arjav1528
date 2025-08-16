@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjav1528&theme=dark_lover" alt="arjav1528" /></a> </p>
 
 - 🔭 I’m currently studying in BITS Pilani KK Birla Goa Campus, pursuing B.E. Electronics and Instrumentation.
-- 💬 Experienced developer in **Flutter,Android Development**
+- 💬 Experienced developer in **Flutter, Android Development, ExpressJS, NodeJS**
 - 📫 Reach out to me on my email **arjav1528@gmail.com**
 - 👨‍💻 All of my projects are available **[on my GitHub:](https://github.com/arjav1528)**
 <!-- - 📄 Know about my experiences **[here](https://drive.google.com/file/d/1M7TlbI_udwuMyDtjh9KOvziyKdi-BdRY/view?usp=sharing)** -->
