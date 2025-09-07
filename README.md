@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying in BITS Pilani KK Birla Goa Campus, pursuing B.E. Electronics and Instrumentation.
 - 💬 Experienced developer in **Flutter, Android Development, ExpressJS, NodeJS**
 - 📫 Reach out to me on my email **arjav1528@gmail.com**
-- 👨‍💻 All of my projects are available **[on my GitHub:](https://github.com/arjav1528)**
+- 👨‍💻 All of my projects are available **[on my Website:](https://arjav1528.vercel.app/)**
 <!-- - 📄 Know about my experiences **[here](https://drive.google.com/file/d/1M7TlbI_udwuMyDtjh9KOvziyKdi-BdRY/view?usp=sharing)** -->
 <!-- - ⚡ Fun fact **Binged 2 shows in a day** -->
 
@@ -46,3 +46,4 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=arjav1528&theme=tokyo-night"/>
+
